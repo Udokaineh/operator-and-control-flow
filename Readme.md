@@ -37,3 +37,5 @@ Decrement Operator (--X)
 Let x=8
 console.log(--x)
 console.log(x--)
+
+The resuult is 8 when console.log(i) is executed because i equals 1 and it was stated that i is less than 20, so i=i+7 gives 8, second execution gives 15 becuause now i equals 8, so i=i+7 is i=8+7 which is 15.
